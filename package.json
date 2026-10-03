@@ -1,0 +1,12 @@
+{
+  "name": "resto-pos",
+  "version": "1.0.0",
+  "description": "POS de restaurant en ligne (Node + SQLite), utilisable sur Android et Windows via navigateur / PWA",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.5"
+  }
+}
